@@ -1,11 +1,4 @@
 
-
-library(DBI)
-
-con <- dbConnect(odbc::odbc(), "PHD_ODBC")
-
-??DBI
-
 #### Kaggle Survey Challenge ####
 
 MJM_Dir <- 'C:\\Users\\Matt\\Desktop\\R_Stuff'
